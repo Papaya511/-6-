@@ -1,1 +1,1 @@
-# -6-
+# Praktika uchebnaya zadanie 6
